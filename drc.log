@@ -1,0 +1,18 @@
+DRC: Design Rule Check Radiant Software (64-bit) 2023.1.0.43.3
+Thu Dec  7 10:26:27 2023
+
+WARNING <71003020> - Top module port 'inputController_2' does not connect to anything.
+WARNING <1027013> - No port matched 'OutputController[0]'.
+WARNING <1014301> - Can't resolve object 'OutputController[0]' in constraint 'ldc_set_location -site {11} [get_ports {OutputController[0]}]'.
+WARNING <1027013> - No port matched 'OutputController[1]'.
+WARNING <1014301> - Can't resolve object 'OutputController[1]' in constraint 'ldc_set_location -site {19} [get_ports {OutputController[1]}]'.
+WARNING <1027013> - No port matched 'OutputController[2]'.
+WARNING <1014301> - Can't resolve object 'OutputController[2]' in constraint 'ldc_set_location -site {13} [get_ports {OutputController[2]}]'.
+WARNING <1027013> - No port matched 'OutputController[3]'.
+WARNING <1014301> - Can't resolve object 'OutputController[3]' in constraint 'ldc_set_location -site {21} [get_ports {OutputController[3]}]'.
+WARNING <1027013> - No port matched 'OutputController[4]'.
+WARNING <1014301> - Can't resolve object 'OutputController[4]' in constraint 'ldc_set_location -site {12} [get_ports {OutputController[4]}]'.
+WARNING <1027013> - No port matched 'in_air_test'.
+WARNING <1014301> - Can't resolve object 'in_air_test' in constraint 'ldc_set_location -site {42} [get_ports in_air_test]'.
+WARNING <1027013> - No port matched 'in_air_test[0]'.
+WARNING <1014301> - Can't resolve object 'in_air_test[0]' in constraint 'ldc_set_location -site {44} [get_ports {in_air_test[0]}]'.
